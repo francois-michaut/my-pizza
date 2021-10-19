@@ -22,12 +22,12 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     },
-<<<<<<< HEAD
+
     'my pizza': {
         'ingredients': {'mozzarella':3, 'egg':2, 'pdt':5, 'chorizo':4, 'mushrooms':4},
         'price':15,
-    }
-=======
+    },
+
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
         'price': 10,
