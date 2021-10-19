@@ -48,5 +48,4 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
->>>>>>> 20c1aca (Pizza orderring and Tests)
 }
